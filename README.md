@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kundan7872
+- 👋 Hi, I’m Kundan Kumar Singh
+- I am Student of C.S.E In Oriental Collage Of Technology Bhopal 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack WEB Dvelopment ,JEE & JRE HTML CSS JAVASCRIPT
 - 💞️ I’m looking to collaborate on Real World Problem
